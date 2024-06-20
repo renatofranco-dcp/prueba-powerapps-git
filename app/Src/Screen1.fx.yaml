@@ -2,7 +2,13 @@ Screen1 As screen:
 
     Label2 As label:
         Text: ="HOLA 123"
+        X: =560
+        Y: =392
+        ZIndex: =1
+
+    Label1 As label:
+        Text: ="Yo puse holi"
         X: =40
         Y: =40
-        ZIndex: =1
+        ZIndex: =2
 
