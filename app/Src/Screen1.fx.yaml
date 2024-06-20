@@ -8,7 +8,7 @@ Screen1 As screen:
 
     Label2 As label:
         Text: ="HOLI!!"
-        X: =540
-        Y: =508
+        X: =560
+        Y: =392
         ZIndex: =2
 
