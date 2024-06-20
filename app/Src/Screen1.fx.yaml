@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="HOLI!!"
+        X: =540
+        Y: =508
+        ZIndex: =2
+

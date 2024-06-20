@@ -116,7 +116,7 @@
     "Id": "297a6c72-d5d0-451f-b743-263515ad7cb4",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Prueba Github",
     "OriginatingVersion": "1.342",
     "ParserErrorCount": 0,
