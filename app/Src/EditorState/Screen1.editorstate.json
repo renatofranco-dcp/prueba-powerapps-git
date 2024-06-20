@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Label1": {
+    "Label2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -59,7 +59,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Label1",
+      "Name": "Label2",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
