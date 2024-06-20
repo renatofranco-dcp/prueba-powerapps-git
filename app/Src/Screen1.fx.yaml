@@ -1,14 +1,8 @@
 Screen1 As screen:
 
-    Label1 As label:
-        Text: ="Ho"
-        X: =40
-        Y: =40
-        ZIndex: =1
-
     Label2 As label:
-        Text: ="HOLI!!"
+        Text: ="HOLA 123"
         X: =560
         Y: =392
-        ZIndex: =2
+        ZIndex: =1
 
