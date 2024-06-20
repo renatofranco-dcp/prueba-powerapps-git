@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =392
         ZIndex: =1
 
+    Label1 As label:
+        Text: ="Yo puse holi"
+        X: =40
+        Y: =40
+        ZIndex: =2
+
